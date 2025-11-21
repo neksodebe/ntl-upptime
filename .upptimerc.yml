@@ -29,7 +29,7 @@ status-website:
       href: /
     - title: GitLab
       href: https://gitlab.com/nikos-techlabs/
-  theme: dark
+  themeUrl: https://status.nikostechlabs.com/ntl-theme.css
   metaTags:
     - name: "title"
       content: "niko's techlabs status"
@@ -41,16 +41,13 @@ status-website:
       content: "English"
     - name: "author"
       content: "niko's techlabs"
-    - property: "og:title"
-      content: "niko's techlabs status"
-    - property: "og:type"
-      content: "website"
-    - property: "og:image"
-      content: "https://gitlab.com/nikos-techlabs/assets/-/raw/main/ntl-256x256.png"
-    - property: "og:description"
-      content: "this site monitors the status of all niko's techlabs projects, and the niko's techlabs website itself."
     - name: "theme-color"
       content: "#8FFF94"
+    - customHeadHtml: |
+        <meta property="og:title" content="niko's techlabs status">
+        <meta property="og:type" content="website">
+        <meta property="og:image" content="https://gitlab.com/nikos-techlabs/assets/-/raw/main/ntl-256x256.png">
+        <meta property="og:description" content="this site monitors the status of all niko's techlabs projects, and the niko's techlabs website itself.">
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
