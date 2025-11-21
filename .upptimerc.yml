@@ -21,6 +21,7 @@ status-website:
   cname: status.nikostechlabs.com
   # baseUrl: /your-repo-name
   logoUrl: https://gitlab.com/nikos-techlabs/assets/-/raw/main/ntl-vector.svg
+  faviconSvg: https://gitlab.com/nikos-techlabs/assets/-/raw/main/ntl-vector.svg
   name: niko's techlabs status
   introTitle: "welcome to the niko's techlabs status page"
   introMessage: this site monitors the status of all niko's techlabs projects, and the niko's techlabs website itself.
