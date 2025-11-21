@@ -21,6 +21,7 @@ status-website:
   cname: status.nikostechlabs.com
   # baseUrl: /your-repo-name
   logoUrl: https://gitlab.com/nikos-techlabs/assets/-/raw/main/ntl-vector.svg
+  favicon: https://gitlab.com/nikos-techlabs/assets/-/raw/main/ntl-32x32.png
   faviconSvg: https://gitlab.com/nikos-techlabs/assets/-/raw/main/ntl-vector.svg
   name: niko's techlabs status
   introTitle: "welcome to the niko's techlabs status page"
@@ -47,7 +48,7 @@ status-website:
     - customHeadHtml: |
         <meta property="og:title" content="niko's techlabs status">
         <meta property="og:type" content="website">
-        <meta property="og:image" content="https://gitlab.com/nikos-techlabs/assets/-/raw/main/ntl-256x256.png">
+        <meta property="og:image" content="/ntl-256x256.png">
         <meta property="og:description" content="this site monitors the status of all niko's techlabs projects, and the niko's techlabs website itself.">
 
 # Upptime also supports notifications, assigning issues, and more
