@@ -23,17 +23,19 @@
     "icon": "https://gitlab.com/nikos-techlabs/assets/-/raw/main/route-roulette/rr-256x256.png",
     "slug": "route-roulette",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "3.28%",
+    "uptimeDay": "3.28%",
+    "uptimeWeek": "3.28%",
+    "uptimeMonth": "3.28%",
+    "uptimeYear": "3.28%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-21": 0
+    }
   },
   {
     "name": "Parottu - Landing page",
