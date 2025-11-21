@@ -45,11 +45,11 @@ status-website:
       content: "niko's techlabs"
     - name: "theme-color"
       content: "#8FFF94"
-    - customHeadHtml: |
-        <meta property="og:title" content="niko's techlabs status">
-        <meta property="og:type" content="website">
-        <meta property="og:image" content="/ntl-256x256.png">
-        <meta property="og:description" content="this site monitors the status of all niko's techlabs projects, and the niko's techlabs website itself.">
+  customHeadHtml: |
+    <meta property="og:title" content="niko's techlabs status">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="/ntl-256x256.png">
+    <meta property="og:description" content="this site monitors the status of all niko's techlabs projects, and the niko's techlabs website itself.">
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
