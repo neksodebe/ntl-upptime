@@ -1,0 +1,17 @@
+:root {
+  --body-background-color: #171717;
+  --body-text-color: #e8e8e8;
+  --card-background-color: #252525;
+  --nav-background-color: #171717;
+  --nav-border-bottom-color: #171717;
+  --nav-current-border-bottom-color: #8fff94;
+  --card-border-color: #252525;
+  --down-border-left-color: #FF4F4F;
+  --down-background-color: #FF4F4F;
+  --degraded-border-left-color: #FF9F52;
+  --up-border-left-color: #8fff94;
+  --tag-color: #252525;
+  --tag-up-background-color: #8fff94;
+  --tag-down-background-color: #eb3b5a;
+  --tag-degraded-background-color: #FF9F52;
+}
