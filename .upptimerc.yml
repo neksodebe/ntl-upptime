@@ -7,10 +7,8 @@ sites:
     url: https://nikostechlabs.com/
     icon: https://gitlab.com/nikos-techlabs/assets/-/raw/main/ntl-vector.svg
   - name: Route Roulette
-    url: http://routeroulette.xyz/
+    url: https://routeroulette.xyz/
     icon: https://gitlab.com/nikos-techlabs/assets/-/raw/main/route-roulette/rr-256x256.png
-    port: 80
-    check: "tcp-ping"
   - name: Parottu - Landing page
     url: https://parottu.com/
     icon: https://gitlab.com/nikos-techlabs/assets/-/raw/main/parottu/parottu.svg
